@@ -33,9 +33,7 @@ body {
 }
 
 .apps {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
+  display: none;
 }
 
 .insert {
