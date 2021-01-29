@@ -37,3 +37,15 @@ body {
   display: -ms-flexbox;
   display: flex;
 }
+
+.insert {
+  display: none;
+}
+
+.android_button {
+  font-weight: bold;
+  border: none;
+  background: #ffffff;
+  color: #7500ce;
+  padding: 15px 30px;
+}
